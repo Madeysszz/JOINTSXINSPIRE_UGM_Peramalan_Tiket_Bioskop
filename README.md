@@ -1,6 +1,7 @@
 # JOINTSXINSPIRE UGM — Peramalan Tiket Bioskop D4–D10
 
-(asset__joints/LB.png)
+![LB](asset__joints/LB.png)
+![LB](asset__joints/COMP.png)
 
 Proyek kompetisi JOINTS X INSPIRE UGM untuk memprediksi penjualan tiket harian pada hari ke-4 sampai ke-10 bagi setiap pasangan film dan klaster bioskop. Masukan saat inference adalah transaksi D1–D3, kalender, harga tiket, dan metadata yang diizinkan kompetisi.
 
